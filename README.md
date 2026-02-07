@@ -30,15 +30,15 @@ The project aims to predict crop yield through regression-based machine learning
 3. Evaluation
    Regression metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R2 score were used to assess the model on test data that had not yet been seen. Strong predictive performance and good generalization are indicated by the low error values and high R2 score.
    
-## Results & Metrics
+# Results & Metrics
 Since the target variable is a continuous value, the regression metrics for evaluating the model were utilized.
 
-# Metrics to Evaluate Regression
+## Metrics to Evaluate Regression
 - Mean Absolute Error (MAE)
 - Mean Squared Error (MSE)
 - R² Score
 
-# Results
+## Results
 - MAE: 9.65
 - MSE: 15,954.62
 - R² Score: 0.98
